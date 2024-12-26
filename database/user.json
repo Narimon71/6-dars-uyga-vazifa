@@ -1,0 +1,15 @@
+
+
+
+[
+    {
+      "id": 1,
+      "username": "johndoe",
+      "password": "secure123",
+      "fullName": "John Doe",
+      "age": 25,
+      "email": "johndoe@example.com",
+      "gender": "male"
+    }
+  ]
+  
